@@ -6,6 +6,7 @@ Multi-model for social media prediction
 The following fields are mentioned in the dataset:
 
 pid: the unique id for the image/post
+
 uid: the user id who is posting the post
 Postdate: the date on which it was posted
 Comment count: comments received by on the post
