@@ -9,13 +9,13 @@ Original Competition SMP Challenge - ACM Multimedia 2017 T1 task<br />
 https://social-media-prediction.github.io/MM17PredictionChallenge/index.html<br />
 Dataset link: https://github.com/social-media-prediction/MM17PredictionChallenge/blob/master/README.md
 
-Original dataset contains information about : pid, uid, postdate, commentcount, haspeople, titlelen, deslen, tagcount, avgview, groupcount, avgmembercount.<br /><br />
+Original dataset contains information about : pid, uid, postdate, commentcount, haspeople, titlelen, deslen, tagcount, avgview, groupcount, avgmembercount.<br />
 
 We have extracted extra features and modified dataset for better social post understanding.<br />
 Modified dataset : pid, uid, postdate, commentcount, haspeople, titlelen, deslen, tagcount, avgview, groupcount, avgmembercount, **alltags**, **title**, **description**, image_url<br />
 
 Reasons for this New Dataset<br />
-1. Extra features of '**alltags**', '**title**', '**description**' added.<br />
+1. Extra features of '**alltags**', '**title**', '**description**' added. Please refer dataset.<br />
 2. Many of the image links were broken from the original dataset, so the datasize is reduced significantly from 400K to 200K. In case required, images will be provided.
 <br /><br />
 
