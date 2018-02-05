@@ -20,7 +20,7 @@ If you intend to publish results that use the information and resources provided
 @inproceedings{Wu2017DTCN, title={Sequential Prediction of Social Media Popularity with Deep Temporal Context Networks}, author={Wu, Bo and Cheng, Wen-Huang and Zhang, Yongdong and Qiushi, Huang and Jintao, Li and Mei, Tao}, booktitle={International Joint Conference on Artificial Intelligence (IJCAI)}, year={2017}, location = {Melbourne, Australia}}<br />
 @inproceedings{Wu2016TemporalPrediction, author = {Wu, Bo and Mei, Tao and Cheng, Wen-Huang and Zhang, Yongdong}, title = {Unfolding Temporal Dynamics: Predicting Social Media Popularity Using Multi-scale Temporal Decomposition}, booktitle = {Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI)} year = {2016}, location = {Phoenix, Arizona}}<br />
 @inproceedings{Wu2016TimeMatters, author = {Wu, Bo and Cheng, Wen-Huang and Zhang, Yongdong and Mei, Tao}, title = {Time Matters: Multi-scale Temporalization of Social Media Popularity}, booktitle = {Proceedings of the 2016 ACM on Multimedia Conference (ACM MM)}, year = {2016}, location = {Amsterdam, The Netherlands}}
-<br /><br /><br />
+<br /><br />
 Due to size limitation, we do not upload image content of our proposed dataset in GitHub. However, such images would be provided on request by contacting the following people.<br />
 Mayank Meghawat (mayank.meghawat@gmail.com)<br />
 Rajiv Ratn Shah (rajivratn@iiitd.ac.in)
