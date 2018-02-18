@@ -1,4 +1,4 @@
-# Multimodel-Social-Media-Prediction
+# Multimodal-Social-Media-Prediction
 
 **First, we propose a new multimodal dataset which is derived from the dataset provided as the part of ACM Multimedia Grand Challenge 2017 (T1 Task: Popularity Prediction). Next, we proposed a multimodal approach to Predict Social Media Popularity. Our experiments confirm that we are able to achieve comparable performance by just using half of the training dataset.**
 <br /><br />
